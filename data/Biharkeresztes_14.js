@@ -1,0 +1,1 @@
+var json_Biharkeresztes_14 = {"type":"FeatureCollection","name":"Biharkeresztes_14","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null,"Name":"Biharkeresztes"},"geometry":{"type":"Point","coordinates":[21.7161097,47.1316253]}}]}
